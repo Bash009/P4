@@ -1,0 +1,2 @@
+{'Total Buffer Waiting Time at Switch3': 0, 'Total Buffer Waiting Time at Switch2': 111985326204079834980L, 'Total Buffer Waiting Time at Switch1': 84093689270015405489L}
+{'Total Buffer Waiting Time at Switch3': 0, 'Total Buffer Waiting Time at Switch2': 111985326204079834980L, 'Total Buffer Waiting Time at Switch1': 84093689270015405489L}
