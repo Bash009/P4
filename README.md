@@ -58,4 +58,4 @@ mininet> python stat.py
 ```
 Result-1
 
-![Output on CLI-1](Result1.jpg)
+![](Result1.jpeg)
