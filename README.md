@@ -56,3 +56,12 @@ For getting statistics
 ```
 mininet> python stat.py
 ```
+Result-1
+
+![](Result1.jpeg)
+
+Result-2
+
+![](Result2.jpeg)
+
+
