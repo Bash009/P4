@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Similarly  to the [copy_to_cpu](../copy_to_cpu) example in this example we show
+Similar to the [copy_to_cpu](../copy_to_cpu) example we show
 how to use the bmv2 digest extern to send information to the control plane
 using an out of band channel. In the digest we send a tuple with: `(random_number, src_ip, dst_ip, ingress time,egress time, buffer time)`.
 
